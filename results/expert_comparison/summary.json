@@ -1,0 +1,35 @@
+{
+  "scoring": "GPT-5.6 Sol xhigh assisted blinded setting-specific scoring; not Scientific Mastery",
+  "expert_role": "Domain experts determined and checked scientific content; DeepSeek V4 Pro assisted wording and organization.",
+  "anchoring": "Frozen Flash mean plus matched within-batch Pro-minus-Flash mean; do not replace with absolute three-candidate batch means.",
+  "conditions": [
+    {
+      "condition": "experimental_context",
+      "items": 40,
+      "frozen_flash_score": 87.1665,
+      "paired_increment": 1.0416675000000002,
+      "anchored_pro_score": 88.2081675,
+      "published_frozen_flash_score": 87.1665,
+      "published_scores": {
+        "OpenPerov Pro": 88.2082,
+        "OpenPerov Flash": 87.1665,
+        "Expert + AI": 85.5413
+      },
+      "matches_published_pro_4dp": true
+    },
+    {
+      "condition": "limited_context",
+      "items": 40,
+      "frozen_flash_score": 95.78125,
+      "paired_increment": 0.96875,
+      "anchored_pro_score": 96.75,
+      "published_frozen_flash_score": 95.7812,
+      "published_scores": {
+        "OpenPerov Pro": 96.75,
+        "OpenPerov Flash": 95.7812,
+        "Expert + AI": 92.9375
+      },
+      "matches_published_pro_4dp": true
+    }
+  ]
+}

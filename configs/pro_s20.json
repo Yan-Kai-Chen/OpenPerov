@@ -1,0 +1,11 @@
+{
+  "profile": "portable_own_corpus_s20_budget",
+  "retrieval": "own_corpus_bm25",
+  "candidate_pool_size": 240,
+  "top_k": 40,
+  "acceptance_policy": "critic",
+  "revision_budget": 2,
+  "require_condition": true,
+  "max_input_tokens": 24576,
+  "reproduction_scope": "Portable E/S boundary instruction and two-edit budget; not frozen S20 G0-G7 verifier or evidence replication."
+}

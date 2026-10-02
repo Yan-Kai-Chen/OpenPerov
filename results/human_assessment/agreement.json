@@ -1,0 +1,104 @@
+{
+  "groups": 16,
+  "pearson_r": 0.7070593806023148,
+  "spearman_rho": 0.7294117647058823,
+  "unit": "system_by_task_family_mean",
+  "means": [
+    {
+      "model": "DeepSeek V4 Flash 0731",
+      "task_family": "design_transfer_synthesis",
+      "human_mean": 68.00847457627118,
+      "automatic_mean": 68.56492794915255
+    },
+    {
+      "model": "DeepSeek V4 Flash 0731",
+      "task_family": "mechanism_diagnostic",
+      "human_mean": 76.86820652173913,
+      "automatic_mean": 82.07342929619566
+    },
+    {
+      "model": "DeepSeek V4 Flash 0731",
+      "task_family": "stability_design_transfer",
+      "human_mean": 64.58333333333333,
+      "automatic_mean": 67.43744571666667
+    },
+    {
+      "model": "DeepSeek V4 Flash 0731",
+      "task_family": "stability_failure",
+      "human_mean": 76.36986301369863,
+      "automatic_mean": 74.51746250684931
+    },
+    {
+      "model": "DeepSeek V4 Pro",
+      "task_family": "design_transfer_synthesis",
+      "human_mean": 73.72881355932203,
+      "automatic_mean": 68.0983756440678
+    },
+    {
+      "model": "DeepSeek V4 Pro",
+      "task_family": "mechanism_diagnostic",
+      "human_mean": 83.45788043478261,
+      "automatic_mean": 83.37954711956522
+    },
+    {
+      "model": "DeepSeek V4 Pro",
+      "task_family": "stability_design_transfer",
+      "human_mean": 72.66666666666667,
+      "automatic_mean": 71.17292592333334
+    },
+    {
+      "model": "DeepSeek V4 Pro",
+      "task_family": "stability_failure",
+      "human_mean": 80.13698630136986,
+      "automatic_mean": 76.68343039726028
+    },
+    {
+      "model": "OpenPerov Flash",
+      "task_family": "design_transfer_synthesis",
+      "human_mean": 75.21186440677967,
+      "automatic_mean": 84.0108076779661
+    },
+    {
+      "model": "OpenPerov Flash",
+      "task_family": "mechanism_diagnostic",
+      "human_mean": 82.67663043478261,
+      "automatic_mean": 89.4322729673913
+    },
+    {
+      "model": "OpenPerov Flash",
+      "task_family": "stability_design_transfer",
+      "human_mean": 76.91666666666667,
+      "automatic_mean": 82.51334828
+    },
+    {
+      "model": "OpenPerov Flash",
+      "task_family": "stability_failure",
+      "human_mean": 83.21917808219177,
+      "automatic_mean": 86.76828767123287
+    },
+    {
+      "model": "Qwen 3.6 27B",
+      "task_family": "design_transfer_synthesis",
+      "human_mean": 56.567796610169495,
+      "automatic_mean": 70.58313013559322
+    },
+    {
+      "model": "Qwen 3.6 27B",
+      "task_family": "mechanism_diagnostic",
+      "human_mean": 68.00271739130434,
+      "automatic_mean": 80.18001232336957
+    },
+    {
+      "model": "Qwen 3.6 27B",
+      "task_family": "stability_design_transfer",
+      "human_mean": 56.666666666666664,
+      "automatic_mean": 68.28006997
+    },
+    {
+      "model": "Qwen 3.6 27B",
+      "task_family": "stability_failure",
+      "human_mean": 65.23972602739725,
+      "automatic_mean": 78.39135680821917
+    }
+  ]
+}

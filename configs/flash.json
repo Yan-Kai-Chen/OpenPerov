@@ -1,0 +1,7 @@
+{
+  "temperature": 0,
+  "enable_thinking": false,
+  "max_output_tokens": 2048,
+  "max_input_tokens": 24576,
+  "repetition_penalty": 1.05
+}

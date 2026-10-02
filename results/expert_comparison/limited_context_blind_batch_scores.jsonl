@@ -1,0 +1,120 @@
+{"id":"limited_context:S20-EC01:Q1","condition":"limited_context","study_id":"S20-EC01","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q1","condition":"limited_context","study_id":"S20-EC01","question_id":"Q1","system":"Expert + AI","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q1","condition":"limited_context","study_id":"S20-EC01","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q2","condition":"limited_context","study_id":"S20-EC01","question_id":"Q2","system":"OpenPerov Pro","score_0_100":87.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q2","condition":"limited_context","study_id":"S20-EC01","question_id":"Q2","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q2","condition":"limited_context","study_id":"S20-EC01","question_id":"Q2","system":"OpenPerov Flash","score_0_100":87.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q3","condition":"limited_context","study_id":"S20-EC01","question_id":"Q3","system":"OpenPerov Pro","score_0_100":81.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q3","condition":"limited_context","study_id":"S20-EC01","question_id":"Q3","system":"Expert + AI","score_0_100":90.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q3","condition":"limited_context","study_id":"S20-EC01","question_id":"Q3","system":"OpenPerov Flash","score_0_100":81.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q4","condition":"limited_context","study_id":"S20-EC01","question_id":"Q4","system":"OpenPerov Pro","score_0_100":82.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q4","condition":"limited_context","study_id":"S20-EC01","question_id":"Q4","system":"Expert + AI","score_0_100":80.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC01:Q4","condition":"limited_context","study_id":"S20-EC01","question_id":"Q4","system":"OpenPerov Flash","score_0_100":78.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q1","condition":"limited_context","study_id":"S20-EC02","question_id":"Q1","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q1","condition":"limited_context","study_id":"S20-EC02","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q1","condition":"limited_context","study_id":"S20-EC02","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q2","condition":"limited_context","study_id":"S20-EC02","question_id":"Q2","system":"Expert + AI","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q2","condition":"limited_context","study_id":"S20-EC02","question_id":"Q2","system":"OpenPerov Pro","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q2","condition":"limited_context","study_id":"S20-EC02","question_id":"Q2","system":"OpenPerov Flash","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q3","condition":"limited_context","study_id":"S20-EC02","question_id":"Q3","system":"Expert + AI","score_0_100":90.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q3","condition":"limited_context","study_id":"S20-EC02","question_id":"Q3","system":"OpenPerov Pro","score_0_100":68.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q3","condition":"limited_context","study_id":"S20-EC02","question_id":"Q3","system":"OpenPerov Flash","score_0_100":68.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q4","condition":"limited_context","study_id":"S20-EC02","question_id":"Q4","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q4","condition":"limited_context","study_id":"S20-EC02","question_id":"Q4","system":"OpenPerov Pro","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC02:Q4","condition":"limited_context","study_id":"S20-EC02","question_id":"Q4","system":"OpenPerov Flash","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q1","condition":"limited_context","study_id":"S20-EC03","question_id":"Q1","system":"OpenPerov Pro","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q1","condition":"limited_context","study_id":"S20-EC03","question_id":"Q1","system":"OpenPerov Flash","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q1","condition":"limited_context","study_id":"S20-EC03","question_id":"Q1","system":"Expert + AI","score_0_100":90.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q2","condition":"limited_context","study_id":"S20-EC03","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q2","condition":"limited_context","study_id":"S20-EC03","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q2","condition":"limited_context","study_id":"S20-EC03","question_id":"Q2","system":"Expert + AI","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q3","condition":"limited_context","study_id":"S20-EC03","question_id":"Q3","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q3","condition":"limited_context","study_id":"S20-EC03","question_id":"Q3","system":"OpenPerov Flash","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q3","condition":"limited_context","study_id":"S20-EC03","question_id":"Q3","system":"Expert + AI","score_0_100":76.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q4","condition":"limited_context","study_id":"S20-EC03","question_id":"Q4","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q4","condition":"limited_context","study_id":"S20-EC03","question_id":"Q4","system":"OpenPerov Flash","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC03:Q4","condition":"limited_context","study_id":"S20-EC03","question_id":"Q4","system":"Expert + AI","score_0_100":91.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q1","condition":"limited_context","study_id":"S20-EC04","question_id":"Q1","system":"OpenPerov Flash","score_0_100":82.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q1","condition":"limited_context","study_id":"S20-EC04","question_id":"Q1","system":"OpenPerov Pro","score_0_100":82.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q1","condition":"limited_context","study_id":"S20-EC04","question_id":"Q1","system":"Expert + AI","score_0_100":61.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q2","condition":"limited_context","study_id":"S20-EC04","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q2","condition":"limited_context","study_id":"S20-EC04","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q2","condition":"limited_context","study_id":"S20-EC04","question_id":"Q2","system":"Expert + AI","score_0_100":76.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q3","condition":"limited_context","study_id":"S20-EC04","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q3","condition":"limited_context","study_id":"S20-EC04","question_id":"Q3","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q3","condition":"limited_context","study_id":"S20-EC04","question_id":"Q3","system":"Expert + AI","score_0_100":93.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q4","condition":"limited_context","study_id":"S20-EC04","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q4","condition":"limited_context","study_id":"S20-EC04","question_id":"Q4","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC04:Q4","condition":"limited_context","study_id":"S20-EC04","question_id":"Q4","system":"Expert + AI","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q1","condition":"limited_context","study_id":"S20-EC05","question_id":"Q1","system":"Expert + AI","score_0_100":90.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q1","condition":"limited_context","study_id":"S20-EC05","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q1","condition":"limited_context","study_id":"S20-EC05","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q2","condition":"limited_context","study_id":"S20-EC05","question_id":"Q2","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q2","condition":"limited_context","study_id":"S20-EC05","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q2","condition":"limited_context","study_id":"S20-EC05","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q3","condition":"limited_context","study_id":"S20-EC05","question_id":"Q3","system":"Expert + AI","score_0_100":50.0,"critical_scientific_error":true}
+{"id":"limited_context:S20-EC05:Q3","condition":"limited_context","study_id":"S20-EC05","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q3","condition":"limited_context","study_id":"S20-EC05","question_id":"Q3","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q4","condition":"limited_context","study_id":"S20-EC05","question_id":"Q4","system":"Expert + AI","score_0_100":88.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q4","condition":"limited_context","study_id":"S20-EC05","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC05:Q4","condition":"limited_context","study_id":"S20-EC05","question_id":"Q4","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q1","condition":"limited_context","study_id":"S20-EC06","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q1","condition":"limited_context","study_id":"S20-EC06","question_id":"Q1","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q1","condition":"limited_context","study_id":"S20-EC06","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q2","condition":"limited_context","study_id":"S20-EC06","question_id":"Q2","system":"OpenPerov Flash","score_0_100":88.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q2","condition":"limited_context","study_id":"S20-EC06","question_id":"Q2","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q2","condition":"limited_context","study_id":"S20-EC06","question_id":"Q2","system":"OpenPerov Pro","score_0_100":88.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q3","condition":"limited_context","study_id":"S20-EC06","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q3","condition":"limited_context","study_id":"S20-EC06","question_id":"Q3","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q3","condition":"limited_context","study_id":"S20-EC06","question_id":"Q3","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q4","condition":"limited_context","study_id":"S20-EC06","question_id":"Q4","system":"OpenPerov Flash","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q4","condition":"limited_context","study_id":"S20-EC06","question_id":"Q4","system":"Expert + AI","score_0_100":88.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC06:Q4","condition":"limited_context","study_id":"S20-EC06","question_id":"Q4","system":"OpenPerov Pro","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q1","condition":"limited_context","study_id":"S20-EC07","question_id":"Q1","system":"Expert + AI","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q1","condition":"limited_context","study_id":"S20-EC07","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q1","condition":"limited_context","study_id":"S20-EC07","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q2","condition":"limited_context","study_id":"S20-EC07","question_id":"Q2","system":"Expert + AI","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q2","condition":"limited_context","study_id":"S20-EC07","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q2","condition":"limited_context","study_id":"S20-EC07","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q3","condition":"limited_context","study_id":"S20-EC07","question_id":"Q3","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q3","condition":"limited_context","study_id":"S20-EC07","question_id":"Q3","system":"OpenPerov Pro","score_0_100":90.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q3","condition":"limited_context","study_id":"S20-EC07","question_id":"Q3","system":"OpenPerov Flash","score_0_100":87.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q4","condition":"limited_context","study_id":"S20-EC07","question_id":"Q4","system":"Expert + AI","score_0_100":88.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q4","condition":"limited_context","study_id":"S20-EC07","question_id":"Q4","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC07:Q4","condition":"limited_context","study_id":"S20-EC07","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q1","condition":"limited_context","study_id":"S20-EC08","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q1","condition":"limited_context","study_id":"S20-EC08","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q1","condition":"limited_context","study_id":"S20-EC08","question_id":"Q1","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q2","condition":"limited_context","study_id":"S20-EC08","question_id":"Q2","system":"OpenPerov Flash","score_0_100":85.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q2","condition":"limited_context","study_id":"S20-EC08","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q2","condition":"limited_context","study_id":"S20-EC08","question_id":"Q2","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q3","condition":"limited_context","study_id":"S20-EC08","question_id":"Q3","system":"OpenPerov Flash","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q3","condition":"limited_context","study_id":"S20-EC08","question_id":"Q3","system":"OpenPerov Pro","score_0_100":92.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q3","condition":"limited_context","study_id":"S20-EC08","question_id":"Q3","system":"Expert + AI","score_0_100":87.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q4","condition":"limited_context","study_id":"S20-EC08","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q4","condition":"limited_context","study_id":"S20-EC08","question_id":"Q4","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC08:Q4","condition":"limited_context","study_id":"S20-EC08","question_id":"Q4","system":"Expert + AI","score_0_100":57.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q1","condition":"limited_context","study_id":"S20-EC09","question_id":"Q1","system":"OpenPerov Pro","score_0_100":87.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q1","condition":"limited_context","study_id":"S20-EC09","question_id":"Q1","system":"OpenPerov Flash","score_0_100":87.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q1","condition":"limited_context","study_id":"S20-EC09","question_id":"Q1","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q2","condition":"limited_context","study_id":"S20-EC09","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q2","condition":"limited_context","study_id":"S20-EC09","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q2","condition":"limited_context","study_id":"S20-EC09","question_id":"Q2","system":"Expert + AI","score_0_100":93.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q3","condition":"limited_context","study_id":"S20-EC09","question_id":"Q3","system":"OpenPerov Pro","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q3","condition":"limited_context","study_id":"S20-EC09","question_id":"Q3","system":"OpenPerov Flash","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q3","condition":"limited_context","study_id":"S20-EC09","question_id":"Q3","system":"Expert + AI","score_0_100":80.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q4","condition":"limited_context","study_id":"S20-EC09","question_id":"Q4","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q4","condition":"limited_context","study_id":"S20-EC09","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC09:Q4","condition":"limited_context","study_id":"S20-EC09","question_id":"Q4","system":"Expert + AI","score_0_100":96.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q1","condition":"limited_context","study_id":"S20-EC10","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q1","condition":"limited_context","study_id":"S20-EC10","question_id":"Q1","system":"Expert + AI","score_0_100":95.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q1","condition":"limited_context","study_id":"S20-EC10","question_id":"Q1","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q2","condition":"limited_context","study_id":"S20-EC10","question_id":"Q2","system":"OpenPerov Flash","score_0_100":91.25,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q2","condition":"limited_context","study_id":"S20-EC10","question_id":"Q2","system":"Expert + AI","score_0_100":97.5,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q2","condition":"limited_context","study_id":"S20-EC10","question_id":"Q2","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q3","condition":"limited_context","study_id":"S20-EC10","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q3","condition":"limited_context","study_id":"S20-EC10","question_id":"Q3","system":"Expert + AI","score_0_100":98.75,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q3","condition":"limited_context","study_id":"S20-EC10","question_id":"Q3","system":"OpenPerov Pro","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q4","condition":"limited_context","study_id":"S20-EC10","question_id":"Q4","system":"OpenPerov Flash","score_0_100":86.25,"critical_scientific_error":true}
+{"id":"limited_context:S20-EC10:Q4","condition":"limited_context","study_id":"S20-EC10","question_id":"Q4","system":"Expert + AI","score_0_100":100.0,"critical_scientific_error":false}
+{"id":"limited_context:S20-EC10:Q4","condition":"limited_context","study_id":"S20-EC10","question_id":"Q4","system":"OpenPerov Pro","score_0_100":86.25,"critical_scientific_error":true}

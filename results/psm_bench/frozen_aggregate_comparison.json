@@ -1,0 +1,100 @@
+[
+  {
+    "model": "DeepSeek R1",
+    "items": 800,
+    "arithmetic": 63.7502,
+    "huber": 64.128,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "DeepSeek V4 Flash 0731",
+    "items": 800,
+    "arithmetic": 74.8992,
+    "huber": 76.3924,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "DeepSeek V4 Pro",
+    "items": 800,
+    "arithmetic": 77.0641,
+    "huber": 78.2849,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "GLM-5.2",
+    "items": 800,
+    "arithmetic": 81.9899,
+    "huber": 83.2839,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Gemini 3.1 Pro",
+    "items": 800,
+    "arithmetic": 78.2228,
+    "huber": 79.3318,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Gemini 3.5 Flash",
+    "items": 800,
+    "arithmetic": 77.2472,
+    "huber": 78.1454,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Gemma-4-31B",
+    "items": 800,
+    "arithmetic": 70.86,
+    "huber": 71.8823,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Kimi-K2.6",
+    "items": 800,
+    "arithmetic": 80.8385,
+    "huber": 81.7962,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "OpenPerov Flash",
+    "items": 800,
+    "arithmetic": 86.1948,
+    "huber": 87.5659,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "OpenPerov Pro",
+    "items": 800,
+    "arithmetic": 87.8972,
+    "huber": 89.0539,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Perovskite-R1",
+    "items": 800,
+    "arithmetic": 54.1053,
+    "huber": 54.1869,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Qwen 3.6 27B",
+    "items": 800,
+    "arithmetic": 74.8465,
+    "huber": 75.8334,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Qwen-3-32B",
+    "items": 800,
+    "arithmetic": 71.7872,
+    "huber": 72.7943,
+    "matches_frozen_summary_4dp": true
+  },
+  {
+    "model": "Qwen3.7-Max",
+    "items": 800,
+    "arithmetic": 78.6612,
+    "huber": 79.6592,
+    "matches_frozen_summary_4dp": true
+  }
+]

@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openperov"
+version = "0.1.0rc1"
+description = "OpenPerov model, evidence revision and scientific evaluation tools"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0; evaluation data CC-BY-4.0"}
+authors = [
+  {name = "Yankai Chen"},
+  {name = "Zhi Wan"},
+  {name = "Tao Jing"},
+]
+dependencies = []
+
+[project.optional-dependencies]
+inference = ["torch", "transformers>=5.9,<6", "accelerate", "safetensors"]
+training = ["torch", "transformers>=5.9,<6", "accelerate", "safetensors", "peft", "numpy"]
+ranking = ["torch", "transformers>=5.9,<6", "accelerate", "safetensors", "peft"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

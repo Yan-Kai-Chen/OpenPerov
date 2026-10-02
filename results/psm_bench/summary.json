@@ -1,0 +1,77 @@
+{
+  "method": "Scientific Mastery v4.3 gatecap20; Huber c=1.345",
+  "max_item_difference": 0.0,
+  "systems": {
+    "DeepSeek R1": {
+      "items": 800,
+      "arithmetic": 63.75021637375,
+      "huber": 64.12795936807066
+    },
+    "DeepSeek V4 Flash 0731": {
+      "items": 800,
+      "arithmetic": 74.89920151,
+      "huber": 76.3924230677136
+    },
+    "DeepSeek V4 Pro": {
+      "items": 800,
+      "arithmetic": 77.06405712375,
+      "huber": 78.28485613533842
+    },
+    "GLM-5.2": {
+      "items": 800,
+      "arithmetic": 81.98991637125,
+      "huber": 83.28390174809228
+    },
+    "Gemini 3.1 Pro": {
+      "items": 800,
+      "arithmetic": 78.22282379375,
+      "huber": 79.33183728066533
+    },
+    "Gemini 3.5 Flash": {
+      "items": 800,
+      "arithmetic": 77.247211215,
+      "huber": 78.1453858940893
+    },
+    "Gemma-4-31B": {
+      "items": 800,
+      "arithmetic": 70.86004672375,
+      "huber": 71.88225661270062
+    },
+    "Kimi-K2.6": {
+      "items": 800,
+      "arithmetic": 80.83850449125,
+      "huber": 81.79622032258335
+    },
+    "OpenPerov Flash": {
+      "items": 800,
+      "arithmetic": 86.19475448625,
+      "huber": 87.56592757733335
+    },
+    "OpenPerov Pro": {
+      "items": 800,
+      "arithmetic": 87.8971529275,
+      "huber": 89.05387295502791
+    },
+    "Perovskite-R1": {
+      "items": 800,
+      "arithmetic": 54.10526439875,
+      "huber": 54.18689344210234
+    },
+    "Qwen 3.6 27B": {
+      "items": 800,
+      "arithmetic": 74.84654906375,
+      "huber": 75.83344584882839
+    },
+    "Qwen-3-32B": {
+      "items": 800,
+      "arithmetic": 71.787159025,
+      "huber": 72.79432634203427
+    },
+    "Qwen3.7-Max": {
+      "items": 800,
+      "arithmetic": 78.661174405,
+      "huber": 79.65915710966003
+    }
+  },
+  "scope": "Recomputed from frozen rounded score components; generation and judging were not rerun."
+}

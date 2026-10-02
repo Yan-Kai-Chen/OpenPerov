@@ -1,0 +1,28 @@
+{
+  "questions": 800,
+  "answers": 3200,
+  "criterion_judgments": 12800,
+  "criteria_per_answer": 4,
+  "human_expert_annotation": true,
+  "formatting_assistance": "Web Sol structured and organized the human labels; it did not replace expert annotation.",
+  "public_ids": "New deterministic response IDs; no historical blind key or reviewer identity is distributed.",
+  "scorer_boundary": "The V5-named archive is a human-label source, not a replacement for Scientific Mastery v4.3.",
+  "systems": {
+    "DeepSeek V4 Flash 0731": {
+      "answers": 800,
+      "human_criterion_mean": 71.5625
+    },
+    "DeepSeek V4 Pro": {
+      "answers": 800,
+      "human_criterion_mean": 78.390625
+    },
+    "OpenPerov Flash": {
+      "answers": 800,
+      "human_criterion_mean": 80.015625
+    },
+    "Qwen 3.6 27B": {
+      "answers": 800,
+      "human_criterion_mean": 62.65625
+    }
+  }
+}

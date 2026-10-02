@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite OpenPerov when using this software, model adaptations or evaluation resources."
+type: software
+title: "OpenPerov: Evidence-grounded language models guide perovskite interface design"
+version: 0.1.0rc1
+date-released: 2026-10-02
+authors:
+  - family-names: Chen
+    given-names: Yankai
+    affiliation: "School of Materials Science and Engineering, Tsinghua University"
+  - family-names: Wan
+    given-names: Zhi
+    affiliation: "School of Materials Science and Engineering, Xi'an Jiaotong University"
+  - family-names: Jing
+    given-names: Tao
+    affiliation: "School of Materials Science and Engineering, Tsinghua University"
+license: Apache-2.0
+keywords:
+  - perovskite photovoltaics
+  - large language models
+  - scientific reasoning
+  - retrieval augmented generation
+
+repository-code: "https://github.com/Yan-Kai-Chen/OpenPerov"
+url: "https://github.com/Yan-Kai-Chen/OpenPerov"

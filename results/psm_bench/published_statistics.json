@@ -1,0 +1,80 @@
+{
+  "method": "Scientific Mastery v4.3",
+  "items": 800,
+  "leader": "OpenPerov Pro",
+  "reference": "OpenPerov Flash",
+  "paired": {
+    "wins": 367,
+    "ties": 265,
+    "losses": 168,
+    "gains_ge_5": 126,
+    "losses_le_minus_5": 4,
+    "iterations": 10000,
+    "seed": 20260903,
+    "arithmetic_delta": 1.7024,
+    "arithmetic_ci95": [
+      1.4257,
+      1.9875
+    ],
+    "huber_delta": 1.4879,
+    "huber_ci95": [
+      1.1804,
+      1.9193
+    ]
+  },
+  "task_family": [
+    {
+      "ability_family": "design_transfer_synthesis",
+      "items": 59,
+      "pro_arithmetic": 86.8613,
+      "pro_huber": 88.0915,
+      "flash902_arithmetic": 84.0108,
+      "flash902_huber": 85.185,
+      "arithmetic_delta": 2.8505,
+      "huber_delta": 2.9065,
+      "wins": 32,
+      "ties": 16,
+      "losses": 11
+    },
+    {
+      "ability_family": "mechanism_diagnostic",
+      "items": 368,
+      "pro_arithmetic": 90.5905,
+      "pro_huber": 92.1854,
+      "flash902_arithmetic": 89.4323,
+      "flash902_huber": 91.1819,
+      "arithmetic_delta": 1.1582,
+      "huber_delta": 1.0035,
+      "wins": 134,
+      "ties": 180,
+      "losses": 54
+    },
+    {
+      "ability_family": "stability_design_transfer",
+      "items": 300,
+      "pro_arithmetic": 84.7319,
+      "pro_huber": 85.6438,
+      "flash902_arithmetic": 82.5133,
+      "flash902_huber": 83.5213,
+      "arithmetic_delta": 2.2186,
+      "huber_delta": 2.1225,
+      "wins": 171,
+      "ties": 46,
+      "losses": 83
+    },
+    {
+      "ability_family": "stability_failure",
+      "items": 73,
+      "pro_arithmetic": 88.165,
+      "pro_huber": 89.7094,
+      "flash902_arithmetic": 86.7683,
+      "flash902_huber": 88.3583,
+      "arithmetic_delta": 1.3967,
+      "huber_delta": 1.3511,
+      "wins": 30,
+      "ties": 23,
+      "losses": 20
+    }
+  ],
+  "scope": "Frozen published statistics; portable bootstrap uses an explicitly recorded RNG profile."
+}

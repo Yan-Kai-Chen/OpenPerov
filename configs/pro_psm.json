@@ -1,0 +1,10 @@
+{
+  "profile": "portable_own_corpus_psm_policy",
+  "retrieval": "own_corpus_bm25",
+  "candidate_pool_size": 240,
+  "top_k": 40,
+  "acceptance_policy": "structural_validity",
+  "revision_budget": null,
+  "max_input_tokens": 24576,
+  "reproduction_scope": "Reference patch prompts and validity assembly; user-supplied evidence, not original paper retrieval."
+}

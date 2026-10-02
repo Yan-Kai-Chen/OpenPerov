@@ -1,0 +1,503 @@
+{
+  "project": "OpenPerov",
+  "version": "0.1.0rc1",
+  "date": "2026-10-02",
+  "status": "PUBLIC_CODE_AND_EVALUATION_RELEASE",
+  "license": {
+    "code": "Apache-2.0",
+    "original_evaluation_data": "CC-BY-4.0"
+  },
+  "total_task_records": 880,
+  "datasets": [
+    {
+      "path": "benchmarks/psm_bench/questions.jsonl",
+      "records": 800,
+      "sha256": "a8ad3748d30cac9855443d4dc55eb2b7180d9bef385138308e0bfb17df9bc133",
+      "bytes": 627257,
+      "fields": [
+        "id",
+        "task_family",
+        "question",
+        "question_sha256"
+      ]
+    },
+    {
+      "path": "benchmarks/expert_comparison/experimental_context.jsonl",
+      "records": 40,
+      "sha256": "d41e3db4e4af32044893d0ea56a52d19506d3c56292c75006b13f38f67ea3200",
+      "bytes": 93794,
+      "fields": [
+        "id",
+        "condition",
+        "study_id",
+        "question_id",
+        "task_type",
+        "system_prompt",
+        "user_prompt",
+        "system_prompt_sha256",
+        "user_prompt_sha256"
+      ]
+    },
+    {
+      "path": "benchmarks/expert_comparison/limited_context.jsonl",
+      "records": 40,
+      "sha256": "baf4a8725e31ababeac8fbf792c84f92fb020d348416d7e2f07319a1b02737b7",
+      "bytes": 71979,
+      "fields": [
+        "id",
+        "condition",
+        "study_id",
+        "question_id",
+        "task_type",
+        "system_prompt",
+        "user_prompt",
+        "system_prompt_sha256",
+        "user_prompt_sha256"
+      ]
+    }
+  ],
+  "omitted": [
+    "training_corpus",
+    "article_evidence",
+    "rag_index",
+    "private_source_support",
+    "private_provenance",
+    "model_weight_binaries"
+  ],
+  "validation": {
+    "unique_ids_within_each_dataset": true,
+    "source_question_text_unchanged": true,
+    "s20_prompt_hashes_match_frozen_sources": true,
+    "hash_strings_normalized_to_lowercase": true,
+    "allowlist_only": true,
+    "limited_path_token_pattern_check_passed": true,
+    "offline_tests": "PASS",
+    "frozen_score_reproduction": "PASS",
+    "model_execution": "NOT_RUN"
+  },
+  "counts": {
+    "questions_and_tasks": 880,
+    "psm_questions": 800,
+    "expert_comparison_tasks": 80,
+    "psm_model_answers": 11200,
+    "human_assessed_answers": 3200,
+    "human_criterion_judgments": 12800,
+    "expert_comparison_answers": 240
+  },
+  "model_weight_delivery": "Separate model release; download links will be added when available",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 141,
+      "sha256": "75f0249ab406cca26cd4dd97d3e539cb929a10bd150cb1556487a4c6a2366307"
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "bytes": 428,
+      "sha256": "0b51d71b61cdb4f22021f088747515f1d5162e00c7ef0fac1563f0a47e162a02"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 226,
+      "sha256": "980385e0fea136e025a53ab1f355d85bdce4060cc030eafabc5e9b22384d7127"
+    },
+    {
+      "path": "benchmarks/expert_comparison/experimental_context.jsonl",
+      "bytes": 93794,
+      "sha256": "d41e3db4e4af32044893d0ea56a52d19506d3c56292c75006b13f38f67ea3200"
+    },
+    {
+      "path": "benchmarks/expert_comparison/experimental_context_references.jsonl",
+      "bytes": 118349,
+      "sha256": "631ea962cce29cb8c9c1f1b763bc2965b23db4cd20944e084473e08d853d4414"
+    },
+    {
+      "path": "benchmarks/expert_comparison/experimental_context_scoring_standard.md",
+      "bytes": 2921,
+      "sha256": "7bbc70ddb626edfa9b80267cfcb0bf16389be6b008b417c944fee1a918b098b5"
+    },
+    {
+      "path": "benchmarks/expert_comparison/limited_context.jsonl",
+      "bytes": 71979,
+      "sha256": "baf4a8725e31ababeac8fbf792c84f92fb020d348416d7e2f07319a1b02737b7"
+    },
+    {
+      "path": "benchmarks/expert_comparison/limited_context_scoring_standard.md",
+      "bytes": 4018,
+      "sha256": "e6c55a526e0933df9e29fa3566b1e7f0039ef862215206d6eb8689774264f755"
+    },
+    {
+      "path": "benchmarks/external/perovskite_r1_adapter.json",
+      "bytes": 1024,
+      "sha256": "703b156d4ca794368ee2af9a6f864fcb9a1d21d29a5242680f6aed33b93e7b2d"
+    },
+    {
+      "path": "benchmarks/LICENSE",
+      "bytes": 663,
+      "sha256": "82c655f4aeb6d1be18b918cf908291e065bf95eb3af34af5f835171fd1d6a721"
+    },
+    {
+      "path": "benchmarks/psm_bench/questions.jsonl",
+      "bytes": 627257,
+      "sha256": "a8ad3748d30cac9855443d4dc55eb2b7180d9bef385138308e0bfb17df9bc133"
+    },
+    {
+      "path": "benchmarks/psm_bench/references.jsonl",
+      "bytes": 2871939,
+      "sha256": "98be78b9e7d55555832495eee81218d0c496a33cf5cc7c1794b1c744ac20f672"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 925,
+      "sha256": "85588da87cc3f892bf9385e511515cd434862a67a4e6f925e4edd65286c80d3c"
+    },
+    {
+      "path": "configs/flash.json",
+      "bytes": 139,
+      "sha256": "36037b351d618f0c0a4b1655be54781662b6075f323b5b12b3a476c52f53613f"
+    },
+    {
+      "path": "configs/pro_psm.json",
+      "bytes": 359,
+      "sha256": "f6b6573ee11c5095f6385dca4378b13dc0dd0354625f0142c01780e0173847f1"
+    },
+    {
+      "path": "configs/pro_s20.json",
+      "bytes": 381,
+      "sha256": "f619c65eda662b43ce365683bb300286cb84167e752b22383bd4422f57f95ef3"
+    },
+    {
+      "path": "configs/training_dapt.json",
+      "bytes": 957,
+      "sha256": "52d07ac66abca98b1db27deff635e12944a20851e11dff2f36541a4205f72176"
+    },
+    {
+      "path": "configs/training_lora.json",
+      "bytes": 323,
+      "sha256": "211be3b2aee8f93fc490b23134a3f4baae93bf1fff55521575b6f503703c0bfb"
+    },
+    {
+      "path": "configs/training_reranker.json",
+      "bytes": 865,
+      "sha256": "12c27c6e3785b938dc0b8638f36a3c672f9047849553cde7081e7ba84c8bd66e"
+    },
+    {
+      "path": "configs/training_scientific.json",
+      "bytes": 1007,
+      "sha256": "886b2861f5ffc9066a9ac20b0f5a4906d402839c9e9a2c137d8e70b69630ce72"
+    },
+    {
+      "path": "configs/training_selector.json",
+      "bytes": 1088,
+      "sha256": "abc710a3c563f8d32bed475529aace180173344b2627291563c8cb9cfb167d9a"
+    },
+    {
+      "path": "configs/training_style.json",
+      "bytes": 1017,
+      "sha256": "cbefb64385b21e100ed5171a30e5ca7ee4ae2c1806d790d5184fa029ba5a9259"
+    },
+    {
+      "path": "docs/DATA_CARD.md",
+      "bytes": 2423,
+      "sha256": "69ec41c34b968aca46accb955ebb979dff17b097906dbdfd12232b45a761e184"
+    },
+    {
+      "path": "docs/ENVIRONMENT.md",
+      "bytes": 1628,
+      "sha256": "cc286b068cc184a578e662c060fc345e2486b0b93ac472c6d866cc38f89fb1ab"
+    },
+    {
+      "path": "docs/EVALUATION.md",
+      "bytes": 2332,
+      "sha256": "c8dfc3441e4284bcd39c9e5648f8369c7a6a0c3fe45acb2fbf436dfd98cecd93"
+    },
+    {
+      "path": "docs/PUBLIC_BOUNDARY.md",
+      "bytes": 2020,
+      "sha256": "df59f3e6014de4167988d9262fd50574296f807d2a0ec21776463a1e68b70e62"
+    },
+    {
+      "path": "examples/synthetic_evidence.jsonl",
+      "bytes": 1130,
+      "sha256": "3d82ba56e466f2498524b0240affcc15059741eaeef6c89154148865fb36f8fb"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 860,
+      "sha256": "357c1cfd6677e38375f5b72ae906f8c9376c9e6b1527d3fb8f5e46204af1c659"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 759,
+      "sha256": "f037b8f4a05659f23f671a63ca4e3b25202f739fbab7d3aa51c5bd22d50559d5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4768,
+      "sha256": "4df7261e75d358c130d930d22d543fd8c8d725b9709c2ef080c15a166dba0bc0"
+    },
+    {
+      "path": "results/EVALUATION_SCOPE.md",
+      "bytes": 1304,
+      "sha256": "0df10c957ad984f278b61110f2c6a238290731555e60513c1b6656030c74498b"
+    },
+    {
+      "path": "results/expert_comparison/experimental_context_answers.jsonl",
+      "bytes": 263386,
+      "sha256": "e15e7bfa6b575a0bf5bcc58284ee8ffb6adab9e41acd1536a6ccad7126df20c7"
+    },
+    {
+      "path": "results/expert_comparison/experimental_context_blind_batch_scores.jsonl",
+      "bytes": 23635,
+      "sha256": "4de38dbaa9825a231d6bc9b229a823cce2db0062e015efbca214f1d82354c4ab"
+    },
+    {
+      "path": "results/expert_comparison/experimental_context_frozen_baseline_scores.jsonl",
+      "bytes": 13012,
+      "sha256": "6a352b37f462042b958967c91e6e8d6a42f8e30271d6cac6c455f7958089da41"
+    },
+    {
+      "path": "results/expert_comparison/experimental_context_paired_scores.jsonl",
+      "bytes": 5484,
+      "sha256": "b3508c4e4a2f4691a48d0c500db40dfc806ee57abf65681bb9d45e5f0304d88c"
+    },
+    {
+      "path": "results/expert_comparison/experimental_context_rubric_ratings.jsonl",
+      "bytes": 119838,
+      "sha256": "9604232e16b7cd1c7a4f457faeabf8bb47d0adad81a58e2c7ecd865584da47d5"
+    },
+    {
+      "path": "results/expert_comparison/limited_context_answers.jsonl",
+      "bytes": 262267,
+      "sha256": "1e254b3298dba1b5f60994eb363726183cdaf5cb20961d0784cb3e1e54d7a6bd"
+    },
+    {
+      "path": "results/expert_comparison/limited_context_blind_batch_scores.jsonl",
+      "bytes": 22403,
+      "sha256": "737a0132f39fb81fe07bdfeea67efd330143ea568b4182faeae175091ef8388b"
+    },
+    {
+      "path": "results/expert_comparison/limited_context_frozen_baseline_scores.jsonl",
+      "bytes": 12218,
+      "sha256": "299137217520fd713a481afd0b87653097efbed66772e53dbf30b110081e7951"
+    },
+    {
+      "path": "results/expert_comparison/limited_context_paired_scores.jsonl",
+      "bytes": 5061,
+      "sha256": "405d297494415dcdd264ee5cc95c5ca2326c8f92ed3dff5f8b19f2d2735876e1"
+    },
+    {
+      "path": "results/expert_comparison/limited_context_rubric_ratings.jsonl",
+      "bytes": 85749,
+      "sha256": "41bb313872bd1aaea344a88f0ec10da13ac781dbdf3c8d137e9686a3d1412bb2"
+    },
+    {
+      "path": "results/expert_comparison/summary.json",
+      "bytes": 1220,
+      "sha256": "f573ae1a66a36104dddb0fe1a8d98ad2b059068845bef9864704ba6515792697"
+    },
+    {
+      "path": "results/human_assessment/agreement.json",
+      "bytes": 2948,
+      "sha256": "ae74aa67158fbdb6da546718169cbe358d1b612e0c1e2ac864a23c8f2aba40f2"
+    },
+    {
+      "path": "results/human_assessment/answers.jsonl",
+      "bytes": 17474891,
+      "sha256": "c5742dd4a4e0a10036489d0c77d4bd96e9f624180fd4ef348b58e6ecf04e9f3f"
+    },
+    {
+      "path": "results/human_assessment/ratings.jsonl",
+      "bytes": 1050984,
+      "sha256": "9ee3aaeeedb72763683ebb7f0feca4df53cc59aaedc97203937157606de77162"
+    },
+    {
+      "path": "results/human_assessment/summary.json",
+      "bytes": 881,
+      "sha256": "a52bd4c8bbf78293c81def704d5af6130332cec2d98095dbc9186859d8530e82"
+    },
+    {
+      "path": "results/psm_bench/components.jsonl",
+      "bytes": 4490842,
+      "sha256": "3eef64e6c5946a36f4665d137a6902d36620ded5775492d49e9557c5b77176f1"
+    },
+    {
+      "path": "results/psm_bench/frozen_aggregate_comparison.json",
+      "bytes": 2027,
+      "sha256": "e82fdcdb4f42c2cbd48da0eb93253d318433ac6568e394d50f28981853e6c613"
+    },
+    {
+      "path": "results/psm_bench/predictions.jsonl",
+      "bytes": 65521747,
+      "sha256": "f50c5addcea79d277c80f65ba969826893059f021ab6574a0021c55ba9d98615"
+    },
+    {
+      "path": "results/psm_bench/published_statistics.json",
+      "bytes": 1918,
+      "sha256": "136a00183c33f30d3fec505042c1f2a5aac8d3cb4493fcc5b78bea086fee086b"
+    },
+    {
+      "path": "results/psm_bench/summary.json",
+      "bytes": 1869,
+      "sha256": "5b80d364e7f31df387f6e39404bb7788f01d3132ff94deaa01e0df738b34b6ae"
+    },
+    {
+      "path": "scripts/evaluate.py",
+      "bytes": 4539,
+      "sha256": "c35c1021c6025843cd02e0b4b609958ad1222a8493a7e56e74120f48315b7213"
+    },
+    {
+      "path": "scripts/merge.py",
+      "bytes": 676,
+      "sha256": "7d40c7d7f52a0fad5a1a6a25d6bef52a809369d181e321adf4da30651e6350fb"
+    },
+    {
+      "path": "scripts/reference_retrieval.py",
+      "bytes": 1173,
+      "sha256": "e8c7790c7bf5b972e3f53454614537e0ad130f4f58124f3b30181632dde7c029"
+    },
+    {
+      "path": "scripts/run_inference.py",
+      "bytes": 2948,
+      "sha256": "d5efa9892486f160ef7384f2d0c2ab1240088c5b25ea73b7dff41b27e3dd799c"
+    },
+    {
+      "path": "scripts/run_pro.py",
+      "bytes": 5974,
+      "sha256": "3f10e4ddada4c3ed8e7718f309a01ddf1aefbf8de914bcad3af2a89c9d1b7c08"
+    },
+    {
+      "path": "scripts/train.py",
+      "bytes": 1374,
+      "sha256": "5bcfc0890edcb387e1d51637d73acaf4f3e2792fa9fa519632b70fe24838c833"
+    },
+    {
+      "path": "scripts/validate_release.py",
+      "bytes": 1998,
+      "sha256": "d8091d34785243c06720d0963e218909db561a0856b9489551fd1800efdeab36"
+    },
+    {
+      "path": "src/openperov/__init__.py",
+      "bytes": 97,
+      "sha256": "a49fc288ec1f92234a021e032234e5c6af2d182632c8e3b41f5c9d8f66ec7ec7"
+    },
+    {
+      "path": "src/openperov/evaluation.py",
+      "bytes": 17790,
+      "sha256": "f4806bb1aeece332fa312a3dc66ba1d23f4785654873545b0f6f20ea4d27e1ac"
+    },
+    {
+      "path": "src/openperov/inference.py",
+      "bytes": 4601,
+      "sha256": "f417e8527825adcf77596f5d3e72cecfa198113828af2826d8bc0dc85cff8cbc"
+    },
+    {
+      "path": "src/openperov/merge.py",
+      "bytes": 4627,
+      "sha256": "12b84c081bafdf36a7c31b08a4714d43700428ece5c6f2b72579f3b46934159e"
+    },
+    {
+      "path": "src/openperov/ranker_score.py",
+      "bytes": 25686,
+      "sha256": "5d04192862de064c36cd0f3eb0ef768d50173d6aa1a5346e5b42a1c33f2784e0"
+    },
+    {
+      "path": "src/openperov/ranker_train.py",
+      "bytes": 39042,
+      "sha256": "95e8fc4b612e244a2a1e16f90d2bb05a9f659e6f9a41756d60cbc0e5b1ed4dc3"
+    },
+    {
+      "path": "src/openperov/reference_evidence.py",
+      "bytes": 38237,
+      "sha256": "f59381a07b5765259683a703ecd752c95014c9cc2fcca89de96cee065a0024fb"
+    },
+    {
+      "path": "src/openperov/reference_evidence_helpers.py",
+      "bytes": 33970,
+      "sha256": "ff4d7a46f85bf1d1aa123ee9c70dcf9e93ad473b9e5f46862bc33b1a154d6f8d"
+    },
+    {
+      "path": "src/openperov/reference_index.py",
+      "bytes": 28049,
+      "sha256": "8b40a6a9954c83b1568829f0fcb898f570a8c1a600a308a17c0d00e75747c239"
+    },
+    {
+      "path": "src/openperov/reference_retrieval.py",
+      "bytes": 25395,
+      "sha256": "b923b74b4a5a68e36394b09364c4d4c839fc97c3ffc01abd5f5f27f2f528ceb9"
+    },
+    {
+      "path": "src/openperov/retrieval.py",
+      "bytes": 6128,
+      "sha256": "b1308a0cacf7a38e43e80b2594a56dfbc43491e6f10f6d5cc921b38b5cf024f1"
+    },
+    {
+      "path": "src/openperov/revision.py",
+      "bytes": 29657,
+      "sha256": "598b8bc40803448406d075bc6988ec9d3c0ffb3443fae97d3f6928b9987904f0"
+    },
+    {
+      "path": "src/openperov/revision_s20.py",
+      "bytes": 42899,
+      "sha256": "88c1b29f48a7b0b63ef709aa30725f89b70cebabd92c5ecf158150992e1064b1"
+    },
+    {
+      "path": "src/openperov/routing.py",
+      "bytes": 7744,
+      "sha256": "532b45a9e1365d3dfb1c56e00bc1dbf4d9c70ba97d453a9c7243ebb852b2b997"
+    },
+    {
+      "path": "src/openperov/scoring_features.py",
+      "bytes": 7771,
+      "sha256": "4e0cb5008f0b90967bf771019fb1f9e84f41eb2e1467e438467b29ae75b76d4c"
+    },
+    {
+      "path": "src/openperov/scoring_strict.py",
+      "bytes": 9827,
+      "sha256": "6494c8999e08b88b3262df38d9c15e3004fa95daf96df6301818513f5ca0c38d"
+    },
+    {
+      "path": "src/openperov/statistics.py",
+      "bytes": 3144,
+      "sha256": "95968205379a17a2cd43614d3a42dfb563ffbdc8a001209cc37b39d13c83d697"
+    },
+    {
+      "path": "src/openperov/training_dapt.py",
+      "bytes": 18163,
+      "sha256": "ff38546e6fd5c22ce62ffb57d22878da70c0905029743093e93be1aee97c7617"
+    },
+    {
+      "path": "src/openperov/training_scientific.py",
+      "bytes": 25580,
+      "sha256": "1b0493669065bbe5fbd8ce10361caa8602d83e98964753090b541ee905028e31"
+    },
+    {
+      "path": "src/openperov/training_style.py",
+      "bytes": 22200,
+      "sha256": "7ef1b8d8fcaf7483362de6de015f72d07d7f7db2eec919da4e39d4595d2e02cf"
+    },
+    {
+      "path": "tests/test_evaluation.py",
+      "bytes": 4855,
+      "sha256": "11711c2185a95fcf23489f5d7494924d6e74b7f76dad5ad32bc85ecdd1b559fa"
+    },
+    {
+      "path": "tests/test_retrieval.py",
+      "bytes": 7591,
+      "sha256": "c7a9037df94bb4c191f2fe379d62d1d15209f3e5648f1299640ccd87536a6843"
+    },
+    {
+      "path": "tests/test_revision.py",
+      "bytes": 5585,
+      "sha256": "73ed23aaa823dc3627a8daf1811078c84035f2a905be62d6db4b5094c0522a43"
+    }
+  ],
+  "file_count_excluding_manifest": 82,
+  "total_bytes_excluding_manifest": 93618082,
+  "repository": "https://github.com/Yan-Kai-Chen/OpenPerov"
+}

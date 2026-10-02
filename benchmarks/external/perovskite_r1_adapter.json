@@ -1,0 +1,20 @@
+{
+  "upstream_repository": "https://github.com/WD928/Perovskite-R1",
+  "question_member": "Perovskite-R1-main/Validation_Records/MCQ(Table S4)/Benchmark.json",
+  "question_sha256": "cf0c043eaa79234cad5ce011d4f8966b6118a364fbfc7927f72557584953bc27",
+  "items": 49,
+  "fields": [
+    "question",
+    "options",
+    "correct_option"
+  ],
+  "upstream_license_recorded": "Apache-2.0 in the archived repository; retain upstream notices and verify the pinned distribution before redistribution.",
+  "author_prediction_member": "Perovskite-R1-main/Validation_Records/MCQ(Table S4)/eval_results_Perovskite-R1.json",
+  "author_prediction_sha256": "fa51e5390469d40d6d34ad330bbd9ce2aa062b3f29a2fa8dad99a52e3d874547",
+  "content_bundled": false,
+  "prediction_schema": {
+    "source_index": "1-based Table S4 order",
+    "predicted_option": "option letter"
+  },
+  "scope": "Author-released Perovskite-R1 predictions are distinct from locally generated OpenPerov predictions; the nearby 197-question open-ended benchmark is different."
+}

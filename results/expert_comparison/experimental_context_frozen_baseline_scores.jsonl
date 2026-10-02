@@ -1,0 +1,80 @@
+{"id":"experimental_context:S20-EC01:Q1","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q1","system":"OpenPerov Flash","score_0_100":83.33}
+{"id":"experimental_context:S20-EC01:Q1","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q1","system":"Expert + AI","score_0_100":83.33}
+{"id":"experimental_context:S20-EC01:Q2","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q2","system":"OpenPerov Flash","score_0_100":66.67}
+{"id":"experimental_context:S20-EC01:Q2","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q2","system":"Expert + AI","score_0_100":83.33}
+{"id":"experimental_context:S20-EC01:Q3","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC01:Q3","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q3","system":"Expert + AI","score_0_100":75.0}
+{"id":"experimental_context:S20-EC01:Q4","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q4","system":"OpenPerov Flash","score_0_100":50.0}
+{"id":"experimental_context:S20-EC01:Q4","condition":"experimental_context","study_id":"S20-EC01","question_id":"Q4","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC02:Q1","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q1","system":"OpenPerov Flash","score_0_100":90.0}
+{"id":"experimental_context:S20-EC02:Q1","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q1","system":"Expert + AI","score_0_100":65.0}
+{"id":"experimental_context:S20-EC02:Q2","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q2","system":"OpenPerov Flash","score_0_100":50.0}
+{"id":"experimental_context:S20-EC02:Q2","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q2","system":"Expert + AI","score_0_100":85.0}
+{"id":"experimental_context:S20-EC02:Q3","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q3","system":"OpenPerov Flash","score_0_100":80.0}
+{"id":"experimental_context:S20-EC02:Q3","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q3","system":"Expert + AI","score_0_100":65.0}
+{"id":"experimental_context:S20-EC02:Q4","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC02:Q4","condition":"experimental_context","study_id":"S20-EC02","question_id":"Q4","system":"Expert + AI","score_0_100":90.0}
+{"id":"experimental_context:S20-EC03:Q1","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC03:Q1","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q1","system":"Expert + AI","score_0_100":83.33}
+{"id":"experimental_context:S20-EC03:Q2","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC03:Q2","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q2","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC03:Q3","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC03:Q3","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q3","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC03:Q4","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q4","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC03:Q4","condition":"experimental_context","study_id":"S20-EC03","question_id":"Q4","system":"Expert + AI","score_0_100":75.0}
+{"id":"experimental_context:S20-EC04:Q1","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q1","system":"OpenPerov Flash","score_0_100":83.33}
+{"id":"experimental_context:S20-EC04:Q1","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q1","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC04:Q2","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC04:Q2","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q2","system":"Expert + AI","score_0_100":50.0}
+{"id":"experimental_context:S20-EC04:Q3","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC04:Q3","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q3","system":"Expert + AI","score_0_100":50.0}
+{"id":"experimental_context:S20-EC04:Q4","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q4","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC04:Q4","condition":"experimental_context","study_id":"S20-EC04","question_id":"Q4","system":"Expert + AI","score_0_100":75.0}
+{"id":"experimental_context:S20-EC05:Q1","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC05:Q1","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q1","system":"Expert + AI","score_0_100":83.33}
+{"id":"experimental_context:S20-EC05:Q2","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC05:Q2","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q2","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC05:Q3","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q3","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC05:Q3","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q3","system":"Expert + AI","score_0_100":75.0}
+{"id":"experimental_context:S20-EC05:Q4","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q4","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC05:Q4","condition":"experimental_context","study_id":"S20-EC05","question_id":"Q4","system":"Expert + AI","score_0_100":75.0}
+{"id":"experimental_context:S20-EC06:Q1","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC06:Q1","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q1","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC06:Q2","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC06:Q2","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q2","system":"Expert + AI","score_0_100":83.33}
+{"id":"experimental_context:S20-EC06:Q3","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q3","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC06:Q3","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q3","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC06:Q4","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q4","system":"OpenPerov Flash","score_0_100":25.0}
+{"id":"experimental_context:S20-EC06:Q4","condition":"experimental_context","study_id":"S20-EC06","question_id":"Q4","system":"Expert + AI","score_0_100":75.0}
+{"id":"experimental_context:S20-EC07:Q1","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC07:Q1","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q1","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC07:Q2","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC07:Q2","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q2","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC07:Q3","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC07:Q3","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q3","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC07:Q4","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q4","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC07:Q4","condition":"experimental_context","study_id":"S20-EC07","question_id":"Q4","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q1","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q1","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q1","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q2","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q2","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q2","system":"Expert + AI","score_0_100":83.33}
+{"id":"experimental_context:S20-EC08:Q3","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q3","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q3","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q4","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q4","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC08:Q4","condition":"experimental_context","study_id":"S20-EC08","question_id":"Q4","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC09:Q1","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC09:Q1","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q1","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC09:Q2","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q2","system":"OpenPerov Flash","score_0_100":83.33}
+{"id":"experimental_context:S20-EC09:Q2","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q2","system":"Expert + AI","score_0_100":66.67}
+{"id":"experimental_context:S20-EC09:Q3","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q3","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC09:Q3","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q3","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC09:Q4","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q4","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC09:Q4","condition":"experimental_context","study_id":"S20-EC09","question_id":"Q4","system":"Expert + AI","score_0_100":25.0}
+{"id":"experimental_context:S20-EC10:Q1","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q1","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC10:Q1","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q1","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC10:Q2","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q2","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC10:Q2","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q2","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC10:Q3","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q3","system":"OpenPerov Flash","score_0_100":100.0}
+{"id":"experimental_context:S20-EC10:Q3","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q3","system":"Expert + AI","score_0_100":100.0}
+{"id":"experimental_context:S20-EC10:Q4","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q4","system":"OpenPerov Flash","score_0_100":75.0}
+{"id":"experimental_context:S20-EC10:Q4","condition":"experimental_context","study_id":"S20-EC10","question_id":"Q4","system":"Expert + AI","score_0_100":75.0}

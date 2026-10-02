@@ -1,0 +1,16 @@
+Copyright 2026 Yankai Chen, Zhi Wan and Tao Jing.
+
+The original OpenPerov evaluation questions, reference answers, annotations
+and project-generated evaluation outputs distributed in benchmarks/ and
+results/ are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+To view the license, visit:
+https://creativecommons.org/licenses/by/4.0/
+Legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+Attribute OpenPerov and the authors using CITATION.cff, identify changes,
+and retain this license notice. Third-party inputs obtained separately,
+including Perovskite-R1, retain their upstream licenses and attribution.
+

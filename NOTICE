@@ -1,0 +1,17 @@
+OpenPerov
+Copyright 2026 Yankai Chen, Zhi Wan and Tao Jing.
+
+Project-authored software is distributed under the Apache License, Version 2.0.
+Original evaluation questions, references, annotations and project-generated
+evaluation outputs are distributed under CC BY 4.0; see benchmarks/LICENSE.
+
+OpenPerov Flash adapts Qwen/Qwen3.6-27B. Its sequential adaptations are
+Broad-DAPT, Stage3-noPF6 and Stage5-noPF6. The Qwen model and the separately
+required Qwen ranking/embedding components retain their upstream licenses.
+https://huggingface.co/Qwen/Qwen3.6-27B/blob/main/LICENSE
+
+The underlying literature and training corpora are not distributed.
+Third-party papers, datasets and models retain their own rights and notices.
+The Perovskite-R1 adapter operates on separately obtained upstream inputs;
+those inputs are not represented as original OpenPerov data.
+
