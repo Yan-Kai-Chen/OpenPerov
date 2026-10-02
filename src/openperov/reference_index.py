@@ -24,7 +24,6 @@ from pathlib import Path
 from types import ModuleType
 from typing import Any
 
-import numpy as np
 
 
 MODEL_ID = "Qwen/Qwen3-Embedding-0.6B"
@@ -69,6 +68,7 @@ def encode_shard(
     batch_size: int,
     max_length: int,
 ) -> None:
+    import numpy as np
     import torch
     import torch.nn.functional as functional
     from transformers import AutoModel, AutoTokenizer
@@ -426,6 +426,8 @@ def merge(
     max_length: int,
     backend_path: Path,
 ) -> dict[str, Any]:
+    import numpy as np
+
     output = paths(work_root)
     source_manifest, _, source_sha = read_source_manifest(source_root)
     records = read_jsonl(output["records"])
